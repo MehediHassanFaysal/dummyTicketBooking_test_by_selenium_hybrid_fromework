@@ -1,0 +1,2 @@
+[32mINFO    [0m root:bookingTicket.py:16 *********** Test_001_RadioButton ***********
+[32mINFO    [0m root:bookingTicket.py:17 *********** Verifying Home Page Title ***********
